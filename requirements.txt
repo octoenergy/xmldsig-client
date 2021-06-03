@@ -1,0 +1,5 @@
+cryptography
+pyOpenSSL < 20
+requests
+signxml
+xmlschema
